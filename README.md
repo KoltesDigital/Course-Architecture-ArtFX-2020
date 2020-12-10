@@ -70,4 +70,11 @@ Although the code should support multiple platforms, only precompiled libraries 
 - Camera system.
 - Separation between Model and View.
 - Visitor pattern.
-- Unit tests.
+- Test-driven development, unit tests.
+
+## Session #4
+
+- Serialization.
+- Visitor pattern, again.
+- Model-View, again.
+- Command pattern, undo-redo.
